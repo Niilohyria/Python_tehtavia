@@ -1,0 +1,1 @@
+print ("Tervetuloa pythonin pariin!") 
