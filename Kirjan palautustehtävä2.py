@@ -1,0 +1,6 @@
+Luku1 = int(input("Kerro luku tai saat turpaan"))
+Luku2 = int(input("Kuulitko sä mua?"))
+Summa = print (f"Tässä on summa {Luku1+Luku2}")
+Erotus = print (f"Tässä on erotus {Luku1-Luku2}")
+Tulo = print (f"Tässä on tulo {Luku1*Luku2}")
+Osamäärä = print (f"Tässä on osamäärä {Luku1/Luku2}")

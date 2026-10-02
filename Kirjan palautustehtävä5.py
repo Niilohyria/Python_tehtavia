@@ -1,0 +1,5 @@
+Nimi = input ("Yksi nimi, kiitos")
+Ikä = int(input ("Yksi ikä, kiitos"))
+Kotikaupunki = input ("Yksi kotikaupunki, kiitos")
+Kotimaa = input ("Yksi kotimaa, kiitos")
+print (f"Nimesi on {Nimi}. Olet {Ikä} vuotta vanha. Kotikaupunkisi on {Kotikaupunki} ja kotimaasi on {Kotimaa}")

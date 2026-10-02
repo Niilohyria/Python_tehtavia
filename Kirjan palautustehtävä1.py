@@ -1,0 +1,2 @@
+Niilo = "Niilo"
+print(Niilo)
